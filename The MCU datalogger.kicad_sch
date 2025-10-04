@@ -2,8 +2,13 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 3f5b0a10-2d4e-4174-92fa-d46a20738e80)
+	(uuid "3f5b0a10-2d4e-4174-92fa-d46a20738e80")
 	(paper "A4")
+	(title_block
+		(title "MCU Datalogger")
+		(rev "1")
+		(company "Precious Nedilyn B. Echapare")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
