@@ -473,6 +473,15 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.25,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.35,
+        "via_diameter": 0.9
       }
     ],
     "meta": {
@@ -622,6 +631,10 @@
     [
       "56e68972-9021-46b0-bf3b-6c680a3abb4f",
       "Connectors"
+    ],
+    [
+      "c7660ad1-1210-45c7-8b90-a2bdcda8cf6d",
+      "Mounting"
     ]
   ],
   "text_variables": {

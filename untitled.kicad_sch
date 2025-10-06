@@ -1571,10 +1571,6 @@
 		)
 		(instances
 			(project "The MCU datalogger"
-				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/56e68972-9021-46b0-bf3b-6c680a3abb4f"
-					(reference "J8")
-					(unit 1)
-				)
 				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/c7660ad1-1210-45c7-8b90-a2bdcda8cf6d"
 					(reference "J8")
 					(unit 1)
@@ -1649,10 +1645,6 @@
 		)
 		(instances
 			(project "The MCU datalogger"
-				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/56e68972-9021-46b0-bf3b-6c680a3abb4f"
-					(reference "J7")
-					(unit 1)
-				)
 				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/c7660ad1-1210-45c7-8b90-a2bdcda8cf6d"
 					(reference "J7")
 					(unit 1)
@@ -1742,10 +1734,6 @@
 		)
 		(instances
 			(project "The MCU datalogger"
-				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/56e68972-9021-46b0-bf3b-6c680a3abb4f"
-					(reference "J6")
-					(unit 1)
-				)
 				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/c7660ad1-1210-45c7-8b90-a2bdcda8cf6d"
 					(reference "J6")
 					(unit 1)
@@ -1820,10 +1808,6 @@
 		)
 		(instances
 			(project "The MCU datalogger"
-				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/56e68972-9021-46b0-bf3b-6c680a3abb4f"
-					(reference "J5")
-					(unit 1)
-				)
 				(path "/3f5b0a10-2d4e-4174-92fa-d46a20738e80/c7660ad1-1210-45c7-8b90-a2bdcda8cf6d"
 					(reference "J5")
 					(unit 1)
